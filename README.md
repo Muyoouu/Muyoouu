@@ -11,7 +11,7 @@ Former accountant, switching career as I have interest in automation ⚙️
 </br>
 
 ## 🚀 Some of my personal projects:
-- [StockMarket Web Simulator](https://github.com/Muyoouu/stockmarket-webapp) - Flask web-app which simulate stock market using real data
+- [StockMarket Web Simulator](https://stocksims.pythonanywhere.com/) - Flask web-app which simulate stock market using real data
 
 - [Home Page Template](https://github.com/Muyoouu/homepage-template) - Static web pages useful as home pages template
 
