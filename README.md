@@ -1,10 +1,10 @@
 ## Hi there 👋
-I'm Musa - Self-taught Software Engineer since 2022  
-Former accountant, switching career as I have interest in automation ⚙️  
+I'm Musa, a Data Analyst 📈   
+Former accountant, switching career as I have interest in data and tech 👨‍💻   
 
-- 🔭 Currently eager to learn and do open-source contribution and freelance.
+- 🔭 Currently eager to learn and do open-source contribution and Kaggle.
 
-- 🌱 On the track of learning Back-End Development in [roadmap.sh](https://roadmap.sh/backend).
+- 🌱 Recently accomplished the [Google Data Analytics Certificate](https://www.credly.com/badges/bff81d6a-1b51-45dc-a986-cbdfdb11fa52/linked_in_profile).
 
 - 💬 Feel free to reach me out: [![LinkedIn][LinkedinBadge]](https://www.linkedin.com/in/musa-yohanes) [![Gmail][GmailBadge]](mailTo:musayohanes00@gmail.com) [![WhatsApp][WhatsAppBadge]](https://wa.me/6285693757526)
 
