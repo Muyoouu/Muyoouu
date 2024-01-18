@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm Musa, a Data Analyst 📈   
-Former accountant, switching career as I have interest in data and automation 👨‍💻   
+I'm Musa, a Financial Analyst 📈   
+Former PwC (Big 4 Accounting Firm) Auditor, exploring data and automation 👨‍💻   
 
 - 🔭 Currently focused on learning and do blogging in Medium site.
 
@@ -11,7 +11,7 @@ Former accountant, switching career as I have interest in data and automation �
 </br>
 
 ## 🚀 Data Analytics Portfolio Page:
-I've compiled and thoroughly documented my data analytics projects, which demonstrate my proficiency in data analysis. These include real-world case studies from Google's Data Analytics Course and personal explorations, showcasing my ability to extract valuable insights and offer data-driven solutions. Feel free to explore my portfolio on this [Notion page](https://muyoouu.notion.site/Data-Analysis-Portfolio-68720324b82c456fa62b8d9c518127c4?pvs=4).
+I've compiled and thoroughly documented my data analytics projects, which demonstrate my proficiency in data analysis. These include real-world case studies from Google's Data Analytics Course and personal explorations, showcasing my ability to extract valuable insights and offer data-driven solutions. Feel free to explore my portfolio on this [page](https://www.datascienceportfol.io/musa_yohanes).
 
 </br>
 
