@@ -9,7 +9,9 @@ I like to explore data and automation 👨‍💻
 - 💡 More about me: [My Profile Page](https://dub.sh/musa-yohanes)
 
 </br>
-## 🚀 Data Analytics Portfolio Page:
+
+### 🚀 Data Analytics Portfolio Page  
+
 I've compiled and summarized my data projects. Check out [my portfolio](https://www.datascienceportfol.io/musa_yohanes)!
 
 </br>
