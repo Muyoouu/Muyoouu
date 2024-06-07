@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Musa, I do Accounting, Finance, and Data Analytics.
+I'm Musa, I do Accounting, Finance, and Data Analytics.  
 I like to explore data and automation 👨‍💻
 
 - 🤓 I help people with their businesses through [UpWork](https://www.upwork.com/freelancers/musayohanes).
