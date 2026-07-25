@@ -31,7 +31,7 @@ My unfair advantage: I speak fluent finance 🤓
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA" />
 </p>
 
-### 🐍 A snake eating my contributions
+### 🐍 P(h)ython eating my contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muyoouu/Muyoouu/output/github-contribution-grid-snake-dark.svg" />
