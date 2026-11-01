@@ -3,7 +3,8 @@
 </p>
 
 I *was* an accountant who got tired of manual data entry, so I coded my way out of it.
-Now I'm a software engineer building data pipelines and finance automations — with a touch of AI — helping businesses in the treasury domain manage their data and cash optimally.
+Now I'm a software engineer building data pipelines and finance automations, with a touch of AI.
+Most of it runs on Python and React, plus the unglamorous plumbing that keeps both honest.
 My unfair advantage: I speak fluent finance 🤓
 
 <p align="center">
@@ -12,13 +13,13 @@ My unfair advantage: I speak fluent finance 🤓
   <a href="mailto:musayohanes00@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-### 🤓 What I'm up to
+### What I'm up to
 
-- 🔨 Full-time building software for the treasury domain — data pipelines and finance automations, with a touch of AI
-- 📝 Blogging on [Medium](https://medium.com/@musayohanes00), sharing what I've learned from time to time
-- 💡 More about me: [my website](https://dub.sh/musa-yohanes)
+- Full-time building software for treasury teams
+- Blogging on [Medium](https://medium.com/@musayohanes00) when something is worth writing down
+- More about me: [muyo.dev](https://muyo.dev)
 
-### 🧰 Toolbox
+### Toolbox
 
 <p>
   <a href="https://skillicons.dev">
@@ -31,7 +32,7 @@ My unfair advantage: I speak fluent finance 🤓
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA" />
 </p>
 
-### 🐍 P(h)ython eating my contributions
+### P(h)ython eating my contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muyoouu/Muyoouu/output/github-contribution-grid-snake-dark.svg" />
